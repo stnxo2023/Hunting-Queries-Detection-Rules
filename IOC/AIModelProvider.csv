@@ -1,0 +1,17 @@
+﻿AI Model Provider,Domain,Risk Score
+Azure OpenAI API,.openai.azure.com,10
+GCP Vertex AI API,.aiplatform.googleapis.com,10
+GitHub Copilot Enterprise API,.api.enterprise.githubcopilot.com,10
+Google Gemini API,.generativelanguage.googleapis.com,10
+Cohere API,.api.cohere.com,8
+X AI API,.api.x.ai,8
+Mistral API,.api.mistral.ai,7
+Anthropic Claude API,.api.anthropic.com,7
+AI21 Labs API,.api.ai21.com,7
+Requesty API,.router.requesty.ai,7
+Bytedance Doubao API,.ark.cn-beijing.volces.com,6
+Samba Nova API,.api.sambanova.ai,5
+DeepSeek API,.api.deepseek.com,5
+Fireworks AI API,.api.fireworks.ai,5
+AskSage API,.api.asksage.ai,4
+OpenRouter API,.openrouter.ai,4
